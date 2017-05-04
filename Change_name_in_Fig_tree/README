@@ -1,0 +1,11 @@
+Three steps.
+1. preparation
+	Make sure you have install the Biopython. Put this zip file in Biopython file.
+	Prepare the fasta file for extracting the name.
+	Prepare your figtree file.
+2. Running extract_name_from_fasta.py
+	Change the input and output file pwd.
+	running the "extract_name_from_fasta.py" to get a txt file of all the name.
+	Copy txt file to a new xls file within first column, and then input the name you want. Notice, the new name should without space or ".". Only first two column is required.
+3. Running extract_name_from_fasta.py
+
